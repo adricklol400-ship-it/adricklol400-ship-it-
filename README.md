@@ -21,9 +21,7 @@ Apasionado por el desarrollo backend, la ciberseguridad y la integración de sol
 
 - [App de recordatorios en Android](#)  
 - [App de notificaciones en Android y iOS](#)
-- [Ciudad Inteligente Local](https://github.com/adricklol400-ship-it/ciudad-inteligente-local)
-- [Feliz Cumple](https://github.com/adricklol400-ship-it/feliz-cumple)
-- [Feliz Cumpleaños 21](https://github.com/adricklol400-ship-it/feliz-cumpleanos-21)
+
 
 ---
 
